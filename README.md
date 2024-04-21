@@ -1,9 +1,9 @@
 
    ###                                <h1> Hi there 👋 ,i'm Luiz Fernando </h1>
-   ###               A web developer student focused on constantly learning with maximum quality and dedication to help transform lives
+   ###                                            Software Engineer
 
 - 🔭 I’m currently just studying
-- 🌱 I’m currently learning React, Node.js and SQL
-- 💬 Ask me about JavaScript, HTML, CSS
+- 🌱 I’m currently digging into Node.js, SQL, Web Servers, Software Architecture, Testing, Chaching and more.
+- 💬 Ask me anything through LinkedIn - https://www.linkedin.com/in/luiz-fernando-barros-moragas-875320185/
 - 📫 How to reach me: luiz.moragas@hotmail.com
 
